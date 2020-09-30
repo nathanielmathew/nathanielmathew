@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi, I'm Nathaniel! 👋
 
-<!--
-**nathanielmathew/nathanielmathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Final Year Computer Science Engineering Undergrad, [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/4094), and General Secretary at [Sahyadri Open Source Community (SOSC)](https://sosc.org.in). I'm a student developer from Mangalore who loves the web, to code, design, and build awesome stuff!✨
+I also enjoy playing the Guitar🎸 and learning new skills whenever I can. Click [here](https://nathanielmathew.me/blog) to view my Blog!
 
-Here are some ideas to get you started:
+Be sure to visit my Website!💻 - [NathanielMathew.me](https://nathanielmathew.me) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can also get in touch with me via:
+- 💼[Linkedin](https://www.linkedin.com/in/nathanielmathew/)
+- 🐦[Twitter](https://twitter.com/nathanxmathew)
+- 🤝[Facebook](https://www.facebook.com/nathanielryanmathew)
+- 🎨[Dribbble](https://dribbble.com/nathanielmathew)
+- 🎮[Steam](http://steamcommunity.com/id/hyp3rflux/)
